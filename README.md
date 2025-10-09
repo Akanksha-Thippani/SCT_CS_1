@@ -14,3 +14,8 @@ This project is my "first hands-on task in cybersecurity", focusing on understan
 - Python 3
 - Google Colab
 
+ ## How to Run
+- **Google Colab**: Open the `.ipynb` file and run the cells  
+- **Local Python**: Run the `.py` file using Python 3 
+
+

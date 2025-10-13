@@ -1,3 +1,4 @@
+## Caesar Cipher GUI
 This is a beginner-friendly Python project demonstrating the "Caesar Cipher", a classical encryption technique.  
 It allows users to 'encrypt and decrypt messages' by shifting letters by a chosen value. 
 

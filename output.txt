@@ -1,0 +1,5 @@
+=== Caesar Cipher Encryption and Decryption ===
+Enter your message: SkillCraft
+Enter shift value : 4
+Type 'encrypt' to encrypt or 'decrypt' to decrypt: encrypt
+ Result: WomppGvejx
